@@ -12,8 +12,7 @@ header{
   #featured-property{
     text-align: center;
     width: 80%;
-    height: 50%;
-    margin: 0%;
+       margin: 0%;
     padding: 10px;
   }
 #details{
@@ -46,3 +45,8 @@ justify-content: space-between;
           color: black;
           width: 25%;
          }
+         #featured-property p {
+          width: 800px;
+          margin: 20px auto; 
+          text-align: center; 
+        }
